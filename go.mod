@@ -35,7 +35,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20180724155351-3d292e4d0cdc // indirect
 	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
 	golang.org/x/tools v0.0.0-20181221235234-d00ac6d27372 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	gotest.tools v2.1.0+incompatible
 )
 
